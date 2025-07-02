@@ -1,5 +1,3 @@
 {
-  "build": {
-    "install": "playwright install"
-  }
+  "start": "bash start.sh"
 }
