@@ -1,3 +1,3 @@
 #!/bin/bash
-playwright install
-python main.p
+npx playwright install chromium
+python main.py
