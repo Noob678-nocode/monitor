@@ -1,3 +1,4 @@
 {
+  "build": "bash build.sh",
   "start": "bash start.sh"
 }
