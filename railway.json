@@ -1,4 +1,10 @@
 {
-  "build": "bash build.sh",
-  "start": "bash start.sh"
+  "services": {
+    "monitor": {
+      "build": {
+        "cmd": "bash build.sh"
+      },
+      "start": "bash start.sh"
+    }
+  }
 }
